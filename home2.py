@@ -48,3 +48,4 @@ Earth = Earth("Tof", 150, 100, "Stone")
 Air = Air("Avatar", 160, 100, "Aang")
 Space = Space("Katara", 140, 100, "Water")
 Space.Brand_phrase()
+
